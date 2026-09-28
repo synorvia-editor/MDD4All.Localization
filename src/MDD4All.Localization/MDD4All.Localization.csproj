@@ -10,9 +10,9 @@
        build hands in the real one, read from src/version.txt plus the run number. -->
   <PropertyGroup>
     <Version>2.0.0.0</Version>
-    <Authors>Dr. Oliver Alt</Authors>
+    <Authors>Dr. Oliver Alt, mDuckLab</Authors>
     <Company>MDD4All.de</Company>
-    <Copyright>(c) MDD4All.de</Copyright>
+    <Copyright>(c) 2026 oalt, mDuckLab</Copyright>
     <Description>Hands the picked language over instead of reading it from the ambient culture. Sits in front of the built-in localizer factory, so every IStringLocalizer in an application follows the switch - including components whose source you do not have.</Description>
     <PackageTags>Localization Globalization StringLocalizer Culture</PackageTags>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
